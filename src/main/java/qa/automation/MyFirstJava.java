@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class MyFirstJava {
     public static void main(String[] args) {
         // writes the text in the console
+        // System.out.println("Hello JAVA");
         System.out.println("Please enter your name!");
 
         //Scanner is class for reading values from the console
