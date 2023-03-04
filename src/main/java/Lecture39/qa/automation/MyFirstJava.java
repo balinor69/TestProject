@@ -1,4 +1,4 @@
-package qa.automation;
+package Lecture39.qa.automation;
 
 import java.util.Scanner;
 
