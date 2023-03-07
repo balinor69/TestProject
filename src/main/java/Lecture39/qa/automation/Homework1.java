@@ -36,7 +36,7 @@ public class Homework1 {
         System.out.println("Thanks for sharing with me!");
         System.out.println("I will save in my database that...");
         System.out.println("... " + userFirstName + " " + userLastName +
-                " favourite hobby is " + userHobby + " !");
+                " favourite hobby is " + userHobby + "!");
     }
 }
 
